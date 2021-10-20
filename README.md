@@ -1,1 +1,1 @@
-# tindog-master
+# tin-dog
